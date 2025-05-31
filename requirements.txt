@@ -1,0 +1,6 @@
+opencv-python
+opencv-contrib-python
+streamlit
+pandas
+numpy
+openpyxl
